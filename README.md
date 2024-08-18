@@ -6,5 +6,7 @@ The project scope encompasses the development website with implementing a search
 A blog application is a web or mobile application with two sets of users: bloggers and readers. Bloggers use the app to create posts,
 edit posts, and submit posts for review by their editors.
 
-## work Demonstration- 
+## Work Demonstration-
+
+<img src="https://1445333.fs1.hubspotusercontent-na1.net/hubfs/1445333/gifs_in_emails-BLOG.gif" width="256"/>
 
