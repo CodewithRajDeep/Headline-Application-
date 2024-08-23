@@ -9,4 +9,4 @@ edit posts, and submit posts for review by their editors.
 ## Work Demonstration-
 
 <img src="https://1445333.fs1.hubspotusercontent-na1.net/hubfs/1445333/gifs_in_emails-BLOG.gif" width="256"/>
-
+<img src="https://media1.tenor.com/m/wy7WirJpB5sAAAAd/proficient-developer.gif" width="256"/>
